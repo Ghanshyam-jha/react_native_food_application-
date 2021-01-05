@@ -1,0 +1,58 @@
+{
+  "fatfree": [
+    {
+      "name": "Fat Free1",
+      "price": "500",
+      "img": "fat1.jpg",
+      "details": ""
+    },
+    {
+      "name": "Fat Free 2",
+      "price": "400",
+      "img": "fat2.jpg",
+      "details": ""
+    },
+    {
+      "name": "Fat Free 3",
+      "price": "400",
+      "img": "fat3.jpg",
+      "details": ""
+    },
+    {
+      "name": "Fat Free 4",
+      "price": "400",
+      "img": "fat4.jpg",
+      "details": ""
+    },
+    {
+      "name": "Fat Free 5",
+      "price": "400",
+      "img": "fat5.jpg",
+      "details": ""
+    },
+    {
+      "name": "Fat Free 6",
+      "price": "400",
+      "img": "fat6.jpg",
+      "details": ""
+    }
+   
+  ],
+
+  "vegan": [
+    {
+      "name": "Vegan Food 1",
+      "price": "500",
+      "img": "fat1.jpg",
+      "details": ""
+    },
+    {
+      "name": "Vegan Food 2",
+      "price": "400",
+      "img": "fat2.jpg",
+      "details": ""
+    }
+
+  ]
+  
+}
